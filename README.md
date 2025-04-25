@@ -24,12 +24,14 @@ Before running the app, make sure you have the following:
 ## How to Run
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/yourusername/EmotionClassifier.git
    cd EmotionClassifier
    ```
 
 2. **Install dependencies**:
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -39,10 +41,6 @@ Before running the app, make sure you have the following:
    streamlit run app.py
    ```
 
-
-
-
-
 ## Interface Preview
 
 - **Upload Image**: Allows users to upload an image of a face or use their camera to take a new picture.
@@ -51,6 +49,7 @@ Before running the app, make sure you have the following:
 - **Bar Chart**: Visualizes the probabilities of different emotions.
 
 ### Example of App Interface:
+
 ![Example1](https://github.com/user-attachments/assets/3ec80ec7-e47a-47a5-8dd2-ab036253acda)
 ![Example2](https://github.com/user-attachments/assets/c311cf32-03cc-478a-898a-9bc605da22e4)
 ![Example3](https://github.com/user-attachments/assets/c37ab831-b983-49b4-8c3c-c8587e7782a4)
@@ -58,4 +57,3 @@ Before running the app, make sure you have the following:
 ---
 
 Feel free to reach out with any questions or issues!
-
